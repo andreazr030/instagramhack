@@ -97,11 +97,11 @@ def menu():
     print(f"{color.morado}    QUE INSTAGRAM QUIERES HAKEAR")
     print("")
     var = 0
-    print(f"{color.verde}[1]HACKEAR POR USUARIO")
+    print(f"{color.verde}[1]HACKEAR POR USUARIO")ycsjimm
     print(f"{color.verde}[2]HACKEAR POR TELEFONO")
     print(f"{color.verde}[3]HACKEAR POR URL")
     print(f"{color.rojo}[0]SALIR{color.fin}")
-    eleccion =input(f"{color.cyan}ELIJE UN NUMERO >>{color.fin} ")
+    eleccion =input(f"{color.cyan}ELIJE UN NUMERO >>{color.fin} ")5627859778
     if eleccion == "1" :
      crear()
     elif eleccion == "2" :
